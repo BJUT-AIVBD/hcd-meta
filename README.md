@@ -7,7 +7,22 @@ Specifically designed for homogenization recognition, the self-built HCD-Meta co
 
 ## Download the dataset
 The dataset is available for non-commercial research purposes only. All copyrights of the images and multimedia resources remain with their original owners. Access to the dataset requires a signed data license agreement. Please contact the corresponding author via email for further information.
-The associated paper is under review. The source code is currently being prepared.
+
+## How to use
+
+1. prepare python evironment
+
+```bash
+git clone https://github.com/BJUT-AIVBD/hcd-meta.git
+```
+
+2. training
+
+```bash
+bash train.sh
+```
+
+The associated paper is under review.
 
 ## Cite this repository
 If you use this software in your work, please cite it using the following metadata.
